@@ -1,0 +1,5 @@
+this is my error handling file assignment,
+there is advanced error handling with finaly and custom errors
+be here 
+seen a cat
+days gone

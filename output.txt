@@ -1,0 +1,5 @@
+1: this is my error handling file assignment,
+1: there is advanced error handling with finaly and custom errors
+1: be here
+1: seen a cat
+1: days gone
